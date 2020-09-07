@@ -16,4 +16,5 @@
 run `npm i && npm start`
 
 ### Snapshots: ###
-![snapshot](snapshots/Global.PNG)
+![snapshot](Snapshots/joinPage.PNG)
+![snapshot](Snapshots/ChatPage.PNG)
