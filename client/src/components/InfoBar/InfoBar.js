@@ -18,7 +18,7 @@ const InfoBar = ({ room, users }) => (
             
         </div>
         <div>
-            connected:{users.map((item,index)=>(<p style={{display:"inline"}} key={index}> {item}, </p>))}
+            connected: {users.map((item,index)=>(<p style={{display:"inline"}} key={index}> {item}, </p>))}
         </div>
     </div>
 )
